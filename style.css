@@ -192,8 +192,10 @@ a {
   width: 30%;
 }
 .footer .content .tengah h3 {
+  display: flex;
+  justify-content: center;
   font-weight: 700;
-  font-size: 30px;
+  font-size: 35px;
   margin-bottom: 7%;
 }
 .footer .content .tengah .mb-3 {
@@ -330,7 +332,12 @@ a {
     margin-top: 8%;
   }
   .footer .content .tengah h3 {
+    display: flex;
+    justify-content: start;
     font-size: 25px;
+  }
+  .footer .content .tengah .mb-3 input {
+    font-size: 20px;
   }
   .footer .content .kanan {
     margin-left: 8%;
