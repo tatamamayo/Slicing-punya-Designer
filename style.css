@@ -193,7 +193,7 @@ a {
 }
 .footer .content .tengah h3 {
   display: flex;
-  justify-content: center;
+  justify-content: center center;
   font-weight: 700;
   font-size: 35px;
   margin-bottom: 7%;
