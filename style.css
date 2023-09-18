@@ -193,7 +193,7 @@ a {
 }
 .footer .content .tengah h3 {
   display: flex;
-  justify-content: center;
+  justify-content: center center;
   font-weight: 700;
   font-size: 30px;
   margin-bottom: 5%;
@@ -334,7 +334,8 @@ a {
   .footer .content .tengah h3 {
     display: flex;
     justify-content: start;
-    font-size: 25px;
+    font-size: 23px;
+    margin-right: 0;
   }
   .footer .content .tengah .mb-3 input {
     font-size: 20px;
