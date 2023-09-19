@@ -193,7 +193,7 @@ a {
 }
 .footer .content .tengah h3 {
   display: flex;
-  justify-content: center center;
+  justify-content: center;
   font-weight: 700;
   font-size: 30px;
   margin-bottom: 5%;
@@ -333,7 +333,7 @@ a {
   }
   .footer .content .tengah h3 {
     display: flex;
-    justify-content: start;
+    justify-content: center;
     font-size: 23px;
     margin-right: 0;
   }
